@@ -1,5 +1,5 @@
 ---
-title: BlitzWolf SHP2
+title: BlitzWolf SHP2/Gosund SP1
 model: BW-SHP2
 category: plug
 type: Plug
@@ -13,6 +13,8 @@ link3: https://www.amazon.de/dp/B07BMQP142
 flash: serial
 ---
 ## Hardware Revision
+This is also for Gosund SP with HYS-01-007 board.
+
 There is a newer hardware revision (v2.3) working with this template:
 ```json
 {"NAME":"BW-SHP2 16A","GPIO":[0,57,0,17,134,132,0,0,131,56,21,0,0],"FLAG":0,"BASE":45}
